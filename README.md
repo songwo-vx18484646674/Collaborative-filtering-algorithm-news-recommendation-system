@@ -38,8 +38,15 @@ IDEA，jdk1.8，mysql5.5/mysql8，navicat数据库管理工具，tomcat7，SSM�
 ### 系统功能展示
 
 **1,前台用户系统**
-![输入图片说明](01%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](02%E6%96%B0%E9%97%BB%E8%AF%A6%E6%83%85.png)
+
+**游客**：
+
+![01首页](https://github.com/user-attachments/assets/cb153419-b2e7-47a1-9a81-fc5e7db10c03)
+
+**登录用户**：
+
+![01首页登录用户](https://github.com/user-attachments/assets/aef4ab51-4750-43a5-a919-2625ed17c823)
+![02新闻详情](https://github.com/user-attachments/assets/a62339f9-3fa8-4cd8-8ecc-aac0775b1d5d)
 ![输入图片说明](03%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
 ![输入图片说明](04.png)
 ![输入图片说明](05.1.png)
