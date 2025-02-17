@@ -54,11 +54,12 @@ IDEA，jdk1.8，mysql5.5/mysql8，navicat数据库管理工具，tomcat7，**Spr
 
 **游客**：
 
-![01首页](https://github.com/user-attachments/assets/cb153419-b2e7-47a1-9a81-fc5e7db10c03)
+![01首页](https://github.com/user-attachments/assets/e99d059e-8ad5-4873-99e7-5d59a75b1c7b)
+
 
 **登录用户**：
 
-![01首页登录用户](https://github.com/user-attachments/assets/aef4ab51-4750-43a5-a919-2625ed17c823)
+![01首页登录用户](https://github.com/user-attachments/assets/a1e5a233-723d-4710-87eb-73c958eb72c1)
 ![02新闻详情](https://github.com/user-attachments/assets/a62339f9-3fa8-4cd8-8ecc-aac0775b1d5d)
 ![输入图片说明](03%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
 ![输入图片说明](04.png)
